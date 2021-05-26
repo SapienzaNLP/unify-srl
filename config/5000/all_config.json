@@ -1,0 +1,24 @@
+{
+    "train": {
+        "CA": "data/json/ca/CoNLL2009_train.json",
+        "CZ": "data/json/cz/CoNLL2009_train.json",
+        "DE": "data/json/de/CoNLL2009_train.json",
+        "EN": "data/json/en/CoNLL2009_train.json",
+        "ES": "data/json/es/CoNLL2009_train.json",
+        "ZH": "data/json/zh/CoNLL2009_train.json"
+    },
+
+    "dev": {
+        "EN": "data/json/en/CoNLL2009_dev.json"
+    },
+
+    "test": {
+        "EN": "data/json/en/CoNLL2009_test.json"
+    },
+
+    "conll": {
+        "EN": "data/txt/en/CoNLL2009_test.txt"
+    },
+
+    "limit_train_set": 5000
+}

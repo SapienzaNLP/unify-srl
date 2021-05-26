@@ -1,0 +1,16 @@
+*.txt
+*.tsv
+data/**/*.json
+checkpoints
+*.bin
+*.vec
+.idea
+
+.DS_Store
+
+.vscode/
+
+lightning_logs/
+experiment_logs/
+checkpoints/*/*ckpt
+
