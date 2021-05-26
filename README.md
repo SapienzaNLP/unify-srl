@@ -3,7 +3,7 @@
 # Unifying Cross-Lingual Semantic Role Labeling with Heterogeneous Linguistic Resources
 
 [![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://www.aclweb.org/anthology/2021.naacl-main.31/)
-[![Conference](http://img.shields.io/badge/conference-EACL--2021-4b44ce.svg)](https://2021.naacl.org/)
+[![Conference](http://img.shields.io/badge/conference-NAACL--2021-4b44ce.svg)](https://2021.naacl.org/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 </div>
