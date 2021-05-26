@@ -1,0 +1,19 @@
+{
+    "train": {
+        "ZH": "data/json/zh/CoNLL2009_train.json"
+    },
+
+    "dev": {
+        "ZH": "data/json/zh/CoNLL2009_dev.json"
+    },
+
+    "test": {
+        "ZH": "data/json/zh/CoNLL2009_test.json"
+    },
+
+    "conll": {
+        "ZH": "data/txt/zh/CoNLL2009_test.txt"
+    },
+
+    "limit_train_set": 0.1
+}

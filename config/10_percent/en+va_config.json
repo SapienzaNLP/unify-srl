@@ -1,0 +1,20 @@
+{
+    "train": {
+        "EN": "data/json/en/CoNLL2009_train.json",
+        "VA": "data/json/en/CoNLL2009_train.va.json"
+    },
+
+    "dev": {
+        "EN": "data/json/en/CoNLL2009_dev.json"
+    },
+
+    "test": {
+        "EN": "data/json/en/CoNLL2009_test.json"
+    },
+
+    "conll": {
+        "EN": "data/txt/en/CoNLL2009_test.txt"
+    },
+
+    "limit_train_set": 0.1
+}
