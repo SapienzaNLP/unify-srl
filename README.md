@@ -10,7 +10,7 @@
 
 ## Description
 This is the repository for the paper [*Unifying Cross-Lingual Semantic Role Labeling with Heterogeneous Linguistic Resources*](https://www.aclweb.org/anthology/2021.naacl-main.31/),
-to be presented at NAACL 2021 by [Simone Conia](https://c-simone.github.io), Andrea Bacciu and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
+to be presented at NAACL 2021 by [Simone Conia](https://c-simone.github.io), [Andrea Bacciu](https://github.com/andreabac3) and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
 
 
 ## Abstract
@@ -26,9 +26,9 @@ to be presented at NAACL 2021 by [Simone Conia](https://c-simone.github.io), And
 ## Download
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
-
-    git clone https://github.com/SapienzaNLP/unify-srl.git
-
+```sh
+git clone https://github.com/SapienzaNLP/unify-srl.git
+```
 or [download a zip archive](https://github.com/SapienzaNLP/unify-srl/archive/master.zip).
 
 ### Model Checkpoint
@@ -36,7 +36,8 @@ or [download a zip archive](https://github.com/SapienzaNLP/unify-srl/archive/mas
 
 
 ## Cite this work
-    @inproceedings{conia-etal-2021-unify-srl,
+```bibtex
+@inproceedings{conia-etal-2021-unify-srl,
     title = "Unifying Cross-Lingual Semantic Role Labeling with Heterogeneous Linguistic Resources",
     author = "Conia, Simone  and
       Bacciu, Andrea  and
@@ -49,3 +50,4 @@ or [download a zip archive](https://github.com/SapienzaNLP/unify-srl/archive/mas
     url = "https://www.aclweb.org/anthology/2021.naacl-main.31",
     pages = "338--351",
 }
+```
