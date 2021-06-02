@@ -32,7 +32,7 @@ git clone https://github.com/SapienzaNLP/unify-srl.git
 or [download a zip archive](https://github.com/SapienzaNLP/unify-srl/archive/master.zip).
 
 ### Model Checkpoint
-* Coming soon
+* [Link to Drive](https://drive.google.com/file/d/1hF6z22yOoyW0qK7gIL6KNH2T4JSl0mP-/view?usp=sharing)
 
 
 ## Cite this work
