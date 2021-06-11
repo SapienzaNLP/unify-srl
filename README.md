@@ -34,6 +34,10 @@ or [download a zip archive](https://github.com/SapienzaNLP/unify-srl/archive/mas
 ### Model Checkpoint
 * [Link to Drive](https://drive.google.com/file/d/1hF6z22yOoyW0qK7gIL6KNH2T4JSl0mP-/view?usp=sharing)
 
+### To install
+To install you can use the ```environment.yml```.<br>
+To use the model with NVIDIA CUDA remember to install the ```torch-scatter``` package made for CUDA as described in the [documentation](https://github.com/rusty1s/pytorch_scatter).
+
 
 ## Cite this work
 ```bibtex
