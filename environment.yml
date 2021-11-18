@@ -164,8 +164,6 @@ dependencies:
     - thinc==7.0.8
     - threadpoolctl==2.1.0
     - tokenizers==0.7.0
-    - torch-scatter==2.0.5
-    - torch-sparse==0.6.7
     - tqdm==4.46.0
     - transformers==2.10.0
     - unidecode==1.1.1
