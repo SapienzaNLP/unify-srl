@@ -36,7 +36,10 @@ or [download a zip archive](https://github.com/SapienzaNLP/unify-srl/archive/mas
 
 ### To install
 To install you can use the ```environment.yml```.<br>
-To use the model with NVIDIA CUDA remember to install the ```torch-scatter``` package made for CUDA as described in the [documentation](https://github.com/rusty1s/pytorch_scatter).
+To use the model with NVIDIA CUDA remember to install the ```torch-scatter``` package made for CUDA (we suggest CUDA 10.2) as described in the [documentation](https://github.com/rusty1s/pytorch_scatter).
+```bash
+pip install torch-scatter==2.0.5 -f https://pytorch-geometric.com/whl/torch-1.5.0+${CUDA}.html
+```
 
 
 ## Cite this work
